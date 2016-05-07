@@ -43,19 +43,25 @@ a {
 }
 
 .container-learn-more-btn {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 45px;
+    padding-left: 45px;
     margin-right: auto;
     margin-left: auto;
+    color: white;
+    position: relative;
+    bottom: 60px;
+}
+
+.learn-more {
+	text-align: center;
+	background-color: blue;
+	padding: 10px;
 }
 
 .how-it-works {
 
 }
 
-.learn-more {
-
-}
 
 .how-can-we-help {
 
